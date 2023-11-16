@@ -33,4 +33,5 @@ INI ADALAH TAMPILAN KODE PROGRAMNYA :
 ![gambar](screenshot/ss2.png)
 INI ADALAH HASIL OUTPUTNYA :
 
-![gambar](screenshot/
+![gambar](screenshot/outputss2.png)
+<H1>PRAKTIKUM</H1>
