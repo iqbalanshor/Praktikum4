@@ -41,4 +41,4 @@ INI ADALAH HASIL OUTPUTNYA :
 ![gambar](screenshot/Outputss1.png)
 
 # Flowchart
-![gambar](screenshot/FLOWCHART.png)
+![gambar](screenshot/flowchart.png)
